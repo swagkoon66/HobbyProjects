@@ -128,7 +128,7 @@ void ENTER_FILE_NAME(char *loc){
     fgets(loc,9,stdin);
     for(int i = 0 ; i < 10 ; i++){
         if (loc[i] == '\n'){
-            *(loc+i) = '\0'; //this shit is way too cool
+            *(loc+i) = '\0'; //this  is way too cool
         }
     }
     getchar();
@@ -151,6 +151,6 @@ int main () {
     //STEP5 Closes FILELOC steam path
     fclose(FILELOC);
 }
-//TESTS FOR SALES 😂😁
+//TESTS  😂😁
 //printf("%s",filename);
 //printf("the file location is: %p",FILELOC);
