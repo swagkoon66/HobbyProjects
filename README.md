@@ -1,3 +1,2 @@
-# HobbyProjects
-For storing my C source codes \
-Made by Koon.
+# HobbyProjectsProto
+For storing my C prototypes \
