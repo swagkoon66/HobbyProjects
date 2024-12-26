@@ -15,4 +15,5 @@ int main () {
     while (fgets(messages,100,FILEloc) != NULL){
         printf("%s",messages);
     }
+    fclose(FILEloc);
 }
