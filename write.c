@@ -18,4 +18,5 @@ int main () {
         if (messages[0] == 'q') break;
         fputs(messages,FILEloc);
     } 
+    fclose(FILEloc);
 }
