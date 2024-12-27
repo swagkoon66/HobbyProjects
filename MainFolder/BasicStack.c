@@ -5,7 +5,7 @@
 /*
         TO DO:
 struct stack (from ANSI C book)
-create two pointer*
+create one pointer*
 1. point to top
 push (put in) and pop (put out)
 
